@@ -1,0 +1,112 @@
+body{
+    /*background-color: #66BFBF;*/
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding: 20px;
+}
+.dog{
+    text-decoration: underline;
+}
+
+.Page1{
+    background-color: #cef5f5;
+    margin: 0;
+}
+.chimmy{
+    text-align: center;
+    font-family: 'Sacramento', cursive;
+    font-size: 4.625rem; /*16px = 1rem*/
+    padding-top: 200px;
+    margin: 0;
+    color: #66BFBF;
+}
+
+.Page1-h2{
+    text-align: center;
+    font-size: 1.5rem; /*16px = 1rem*/
+    color: #66BFBF;
+}
+
+.top-cloud{
+    position: absolute;
+    left: 65%;
+    margin-top: 10%;
+}
+
+.bottom-cloud{
+    position: absolute;
+}
+
+.Page2{
+    margin: 100px auto 100px auto;
+    background-color: white;
+}
+
+.dog-image{
+    max-width: 175px;
+    max-height: 175px;
+    background-color: #bdf0f0;
+    border-radius: 70%;
+}
+
+.Page2-p{
+    align: left;
+    color: #40514E;
+    font-weight: bold;
+    font-size: 10px;
+    
+}
+
+hr{
+    border-top: 5px dotted;
+    border-left: 0px;
+    border-right: 0px;
+    border-bottom: 0px;
+    width: 60px;
+    color: #d4dada;
+    background-color: white;
+    padding: 20px
+}
+
+
+.cute-dog{
+    border-radius: 70%;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+}
+
+.tbl-bark{
+    margin: 0 auto 0 auto;
+    padding: 0px 0px 70px 0px;
+}
+
+.Bark{
+    text-align: left;
+}
+
+.Page2-p2{
+    align: left;
+    color: #40514E;
+    font-weight: bold;
+    font-size: 10px;
+    
+}
+
+.Page4{
+    height: 100px;
+    background-color: #66BFBF;
+    font-family: 'Merriweather', serif;
+}
+
+.fb{
+    position: relative;
+    border-top: 100px;
+}
